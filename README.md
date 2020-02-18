@@ -2,7 +2,7 @@ cross entropy loss
 
 ### binary-classification cross entropy:
 
-$E(w)=-\sum_{n}^{N}(t_{n}\log y_{n}+(1-t_{n})\log (1-y_{n}))$
+$E(w)=-\sum_{n}^{N}(t_{n}\log y_{n}+(1-t_{n})\log (1-y_{n})) $
 
 $\bar{E(w)}=\frac{E(w)}{N}$
 
